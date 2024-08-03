@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+}
+
+.shopping-card-list {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+  flex-wrap: wrap;
+  /* margin-left: auto; */
+}
+
+.shopping-card-list > * {
+  /* or use flex: 1; if you want them to grow equally */
+  flex: 1 1 300px;
+  /* optional, if you want to set a maximum width */
+  /* max-width: 300px; */
+}
+
+/*Header*/
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+  flex: "1";
+  padding: 5px;
+  margin-right: "5px";
+}

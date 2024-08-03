@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Fancy Product",
+    "price": "$40.00 - $80.00",
+    "button": "View options"
+  },
+  {
+    "id": 2,
+    "title": "Special Item",
+    "rating": "⭐⭐⭐⭐⭐⭐",
+    "price": "$̶2̶0̶.0̶0̶  $18.00 ",
+    "button": "Add to cart"
+  },
+  {
+    "id": 3,
+    "title": "Sale Item",
+    "price": "$̶50̶.0̶0̶  $18.00",
+    "button": "Add to cart"
+  },
+  {
+    "id": 4,
+    "title": "Polular Item",
+    "rating": "⭐⭐⭐⭐⭐⭐",
+    "price": " $40.00",
+    "button": "Add to cart"
+  },
+  {
+    "id": 5,
+    "title": "Sale Item",
+    "price": "$̶50̶.0̶0̶  $25.00",
+    "button": "Add to cart"
+  },
+  {
+    "id": 6,
+    "title": "Fancy Product",
+    "price": "$120 - $280.00",
+    "button": "View options"
+  },
+  {
+    "id": 7,
+    "title": "Special Item",
+    "rating": "⭐⭐⭐⭐⭐⭐",
+    "price": "$̶20̶.0̶0̶  $18.00",
+    "button": "Add to cart"
+  },
+  {
+    "id": 8,
+    "title": "Popular Item",
+    "rating": "⭐⭐⭐⭐⭐⭐",
+    "price": "$40.00",
+    "button": "Add to cart"
+  }
+]
